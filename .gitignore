@@ -34,5 +34,6 @@ DeleteUserProfile.psd1.source
 bin/
 obj/
 .vs/
+.vscode/
 .idea/
 license/
