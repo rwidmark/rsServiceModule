@@ -93,7 +93,7 @@
     # NestedModules = @()
 
     # Functions to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no functions to export.
-    FunctionsToExport = "Get-ReturnMessageTemplate", "Write-rsPSULog", "Write-rsPWSHLog", "Convert-WhiteSpaceToDot"
+    FunctionsToExport = "Get-ReturnMessageTemplate", "Convert-WhiteSpaceToDot"
 
     # Cmdlets to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no cmdlets to export.
     CmdletsToExport   = @()
