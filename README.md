@@ -14,7 +14,10 @@ Install-Module -Name rsServiceModule -Scope AllUsers -Force
 ```
 
 ## Links
-* [Blog](https://stolpe.io)
-* [Twitter](https://twitter.com/rstolpes)
-* [LinkedIn](https://www.linkedin.com/in/rstolpe/)
-* [PowerShell Gallery](https://www.powershellgallery.com/profiles/rstolpe)
+* [My PowerShell Collection](https://github.com/rwidmark/PSCollection)
+* [Webpage/Blog](https://widmark.dev)
+* [X](https://twitter.com/widmark_robin)
+* [Mastodon](https://mastodon.social/@rwidmark)
+* [YouTube](https://www.youtube.com/@rwidmark)
+* [LinkedIn](https://www.linkedin.com/in/rwidmark/)
+* [GitHub](https://github.com/rwidmark)
